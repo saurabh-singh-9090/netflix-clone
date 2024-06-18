@@ -1,8 +1,10 @@
-# React + Vite
+# A Fullstack Netflix clone using React JS and Firebase
+Live website - https://iridescent-pegasus-0c0535.netlify.app/login
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/saurabh-singh-9090/netflix-clone/assets/164728355/433a17e3-592d-4ea3-8e18-d64e7e39fc12)
 
-Currently, two official plugins are available:
+![image](https://github.com/saurabh-singh-9090/netflix-clone/assets/164728355/51a56aff-2039-457d-99e1-c0a2f5719134)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/saurabh-singh-9090/netflix-clone/assets/164728355/e87203e5-bd5c-4c22-a51f-e0d0e8063a11)
+
+![image](https://github.com/saurabh-singh-9090/netflix-clone/assets/164728355/7c592c6f-9f42-4b1d-b7f2-cecaf6ec8d44)

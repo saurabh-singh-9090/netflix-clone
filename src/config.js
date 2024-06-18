@@ -1,20 +1,18 @@
 // replace below firebase config with your own
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCEy6YUeAvjOmRARvTRdfGeL8RJDzs8U7A",
-    authDomain: "netflix-clone-d1fa8.firebaseapp.com",
-    projectId: "netflix-clone-d1fa8",
-    storageBucket: "netflix-clone-d1fa8.appspot.com",
-    messagingSenderId: "1080602120235",
-    appId: "1:1080602120235:web:29e7c05415df6c1cd65a6e"
-  };
+  apiKey: "AIzaSyA5jDO4PsaU12P-xwROlTNMMQkAYrAQSe0",
+  authDomain: "netflix-clone-1e7f3.firebaseapp.com",
+  projectId: "netflix-clone-1e7f3",
+  storageBucket: "netflix-clone-1e7f3.appspot.com",
+  messagingSenderId: "908652648394",
+  appId: "1:908652648394:web:dc637beb76fc6ebc0ba133"
+};
+
+// create a/c on themoviedb.org and replace access token below
 
 
-
-// craete a/c on themoviedb.org and replace access token below
-
-
-const TMDB_Access_Key="eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlZTNlNzczZDIwY2M2Y2NhNWQ4YWVjMjQzNTdlNDc1ZCIsInN1YiI6IjY2MjIyMDFhYWUzODQzMDE4NzJhNTJjMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.vPDW2QwNr9hIRdOvJx_x8hbHnDYZGHMtnZwfkqb3J8U";
+const TMDB_Access_Key="eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4NWI5ZDJiNjAwZTRjZDQ3MGM4N2Q2Mzg5ZjJmYThjYSIsInN1YiI6IjY2NzEyZDFiNzc4M2ExNmQ5MmYyZjM3ZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.F3A7tWrSHkDoUCyf_aNTFenAPjLVYtQ_abOB9Yyc7as";
 
 
   export {firebaseConfig, TMDB_Access_Key};

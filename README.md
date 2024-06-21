@@ -1,7 +1,7 @@
 # A Fullstack Netflix clone using React JS and Firebase
 A Netflix like website developed using TMDB Api. Authentication feature has been introduced here using Google Firebase. User will be able to access the website after creating an account.
 
-#Live Demo of the website
+# Live Demo of the website
 https://netflix-clone-saurabh.netlify.app/
 
 # Website Snapshots

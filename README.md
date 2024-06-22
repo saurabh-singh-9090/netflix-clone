@@ -2,7 +2,7 @@
 A Netflix like website developed using TMDB Api. Authentication feature has been introduced here using Google Firebase. User will be able to access the website after creating an account.
 
 # Live Demo of the website
-https://netflix-clone-saurabh.netlify.app/
+https://movie-trailers-website.netlify.app/
 
 # Website Snapshots
 ![image](https://github.com/saurabh-singh-9090/netflix-clone/assets/164728355/433a17e3-592d-4ea3-8e18-d64e7e39fc12)

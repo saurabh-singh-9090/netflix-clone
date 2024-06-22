@@ -20,7 +20,7 @@ const App = () => {
         navigate('/');
       }else{
         console.log("Logged Out");
-        navigate('/');
+        navigate('/login');
       }
     })
   },[])
